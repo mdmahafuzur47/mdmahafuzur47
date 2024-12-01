@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahafuzur47&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahafuzur47" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mdmahafuzur.top/](<a target="_blank" href="https://mdmahafuzur.top/" target="blank">)
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://mdmahafuzur.top/" target="blank">
 
 - 📫 How to reach me **mdmahafuzur4747@gmail.com**
 
