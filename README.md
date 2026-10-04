@@ -11,10 +11,10 @@ Software Engineer · Full-Stack Developer · Mobile Developer · AI & Automation
   <a href="mailto:mdmahafuzur4747@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-006d68?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/mdmahafuzur">
+  <a href="https://www.linkedin.com/in/md-mahafuzur-rahaman-964480251">
     <img src="https://img.shields.io/badge/LinkedIn-Mahafuzur%20Rahaman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/mdmahafuzur">
+  <a href="https://github.com/mdmahafuzur47">
     <img src="https://img.shields.io/badge/GitHub-mdmahafuzur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -208,10 +208,10 @@ DevOps & Deployment    ███████████████
   <a href="mailto:mdmahafuzur4747@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdmahafuzur4747%40gmail.com-006d68?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/mdmahafuzur">
+  <a href="https://www.linkedin.com/in/md-mahafuzur-rahaman-964480251">
     <img src="https://img.shields.io/badge/LinkedIn-Mahafuzur%20Rahaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/mdmahafuzur">
+  <a href="https://github.com/mdmahafuzur47">
     <img src="https://img.shields.io/badge/GitHub-mdmahafuzur-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
