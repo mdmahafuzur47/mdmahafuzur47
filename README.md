@@ -173,15 +173,6 @@ DevOps & Deployment    ███████████████
 
 **Linux · VPS · Nginx · Docker · CI/CD · Production Deployment**
 
----
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mdmahafuzur&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
